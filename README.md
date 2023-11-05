@@ -1,3 +1,4 @@
+theme: minima
 # IntelliJ IDEA Shortcuts for macOS
 
 This README provides a quick reference guide to the most essential IntelliJ IDEA keyboard shortcuts for macOS users. These shortcuts can help improve your productivity by saving time and keystrokes.
@@ -27,6 +28,9 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 ## Navigation Shortcuts
 
 - **Jump to Source:** `⌘ (Command) + B` or `⌘ (Command) + Click`
+- **Jump to Class:** `⌘ (Command) + O`
+- **Jump to File:** `⌘ (Command) + ⇧ (Shift) + O`
+- **Jump to Method/Variable (SYMBOL):** `⌘ (Command) + ⌥ (Option) + O`
 - **Navigate Back/Forward:** `⌘ (Command) + [ or ]`
 - **Navigate to Last Edit Location:** `⇧ (Shift) + ⌘ (Command) + ⌫ (Backspace)`
 - **Quick Switch Scheme:** `⌃ (Control) + ` (Backquote)`
