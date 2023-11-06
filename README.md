@@ -1,4 +1,3 @@
-theme: minima
 # IntelliJ IDEA Shortcuts for macOS
 
 This README provides a quick reference guide to the most essential IntelliJ IDEA keyboard shortcuts for macOS users. These shortcuts can help improve your productivity by saving time and keystrokes.
@@ -10,6 +9,8 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Open Settings/Preferences Dialog:** `⌘ (Command) + ,`
 - **Open Project Structure Dialog:** `⌘ (Command) + ;`
 - **Switch Between Tabs and Tool Window:** `⌃ (Control) + Tab`
+- **Optimize Imports:** `⌃ (Control) + ⌥ (Option) + O`
+- **Quick Fix:** `⌥ (Option) + ⏎ (Enter)`
 
 ## Editing Shortcuts
 
@@ -18,6 +19,8 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Smart Line Join:** `⇧ (Shift) + ⌘ (Command) + J`
 - **Smart Line Split:** `⌘ (Command) + ↩ (Enter)`
 - **Start New Line:** `⇧ (Shift) + ↩ (Enter)`
+- **Select till the end of the word:** `⌥ (Option) + ⇧ (Shift) + → (Right Arrow)`
+- **Select till the end of the scope:** `⌥ (Option) + (Up Arrow or Down Arrow)`
 
 ## Code Generation
 
@@ -31,9 +34,10 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Jump to Class:** `⌘ (Command) + O`
 - **Jump to File:** `⌘ (Command) + ⇧ (Shift) + O`
 - **Jump to Method/Variable (SYMBOL):** `⌘ (Command) + ⌥ (Option) + O`
+- **Jump to Action (ex: change theme):** `⌘ (Command) + ⇧ (Shift) + A`
 - **Navigate Back/Forward:** `⌘ (Command) + [ or ]`
 - **Navigate to Last Edit Location:** `⇧ (Shift) + ⌘ (Command) + ⌫ (Backspace)`
-- **Quick Switch Scheme:** `⌃ (Control) + ` (Backquote)`
+- **Quick Switch Scheme:** `⌃ (Control) + (Backquote)`
 
 ## Refactoring Shortcuts
 
@@ -41,6 +45,13 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Rename:** `⇧ (Shift) + F6`
 - **Change Signature:** `⌘ (Command) + F6`
 - **Inline:** `⌘ (Command) + ⌥ (Option) + N`
+- **Extract Method:** `⌘ (Command) + ⌥ (Option) + M`
+- **Extract Variable:** `⌘ (Command) + ⌥ (Option) + V`
+- **Extract Field:** `⌘ (Command) + ⌥ (Option) + F`
+- **Extract Constant:** `⌘ (Command) + ⌥ (Option) + C`
+- **Extract Parameter:** `⌘ (Command) + ⌥ (Option) + P`
+- **Move focus to project tool window:** `⌘ (Command) + 1`
+
 
 ## Debugging Shortcuts
 
@@ -50,6 +61,8 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Step Out:** `⇧ (Shift) + F8`
 - **Run to Cursor:** `⌥ (Option) + F9`
 - **Evaluate Expression:** `⌥ (Option) + F8`
+- **Navigate to recent files:** `⌘ (Command) + E`
+- **Navigate to recent edited files:** `⌘ (Command) + ⇧ (Shift) + E`
 
 ## Version Control / VCS
 
