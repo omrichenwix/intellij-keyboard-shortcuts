@@ -5,6 +5,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 ## General Shortcuts
 
 - **Open Search Everywhere:** `Double ⇧ (Shift)`
+- **Run Anything:** `Double ⌃ (Control)`
 - **Find Action (Ex: change theme):** `⇧ (Shift) + ⌘ (Command) + A`
 - **Open Settings/Preferences Dialog:** `⌘ (Command) + ,`
 - **Open Project Structure Dialog:** `⌘ (Command) + ;`
@@ -13,6 +14,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Quick Fix:** `⌥ (Option) + ⏎ (Enter)`
 - **Find parameter info:** `⌘ (Command) + P`
 - **Quick Definition:** `⌥ (Option) + Space`
+- **Find Usage:** `⌥ (Option) + F7`
 
 ## Editing Shortcuts
 
@@ -23,7 +25,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Smart Line Split:** `⌘ (Command) + ↩ (Enter)`
 - **Start New Line:** `⇧ (Shift) + ↩ (Enter)`
 - **Select till the end of the word:** `⌥ (Option) + ⇧ (Shift) + → (Right Arrow)`
-- **Select till the end of the scope:** `⌥ (Option) + (Up Arrow or Down Arrow)`
+- **Select till the end/start of the scope:** `⌥(Option) + ↑ / ⌥ (Option) + ↓`
 
 ## Code Generation
 
@@ -41,6 +43,9 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Navigate Back/Forward:** `⌘ (Command) + [ or ]`
 - **Navigate to Last Edit Location:** `⇧ (Shift) + ⌘ (Command) + ⌫ (Backspace)`
 - **Quick Switch Scheme:** `⌃ (Control) + (Backquote)`
+- **Move focus to project tool window:** `⌘ (Command) + 1`
+- **Move focus back to editor:** `Esc`
+
 
 ## Refactoring Shortcuts
 
@@ -53,7 +58,6 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Extract Field:** `⌘ (Command) + ⌥ (Option) + F`
 - **Extract Constant:** `⌘ (Command) + ⌥ (Option) + C`
 - **Extract Parameter:** `⌘ (Command) + ⌥ (Option) + P`
-- **Move focus to project tool window:** `⌘ (Command) + 1`
 
 
 ## Debugging Shortcuts
