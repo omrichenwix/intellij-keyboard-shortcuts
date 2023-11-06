@@ -35,6 +35,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Jump to Source:** `⌘ (Command) + B` or `⌘ (Command) + Click`
 - **Jump to Class:** `⌘ (Command) + O`
 - **Jump to File:** `⌘ (Command) + ⇧ (Shift) + O`
+- **Jump to Line:** `⌘ (Command) + L`
 - **Jump to Method/Variable (SYMBOL):** `⌘ (Command) + ⌥ (Option) + O`
 - **Jump to Action (ex: change theme):** `⌘ (Command) + ⇧ (Shift) + A`
 - **Navigate Back/Forward:** `⌘ (Command) + [ or ]`
