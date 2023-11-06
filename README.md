@@ -5,7 +5,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 ## General Shortcuts
 
 - **Open Search Everywhere:** `Double ⇧ (Shift)`
-- **Find Action:** `⇧ (Shift) + ⌘ (Command) + A`
+- **Find Action (Ex: change theme):** `⇧ (Shift) + ⌘ (Command) + A`
 - **Open Settings/Preferences Dialog:** `⌘ (Command) + ,`
 - **Open Project Structure Dialog:** `⌘ (Command) + ;`
 - **Switch Between Tabs and Tool Window:** `⌃ (Control) + Tab`
@@ -37,7 +37,6 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Jump to File:** `⌘ (Command) + ⇧ (Shift) + O`
 - **Jump to Line:** `⌘ (Command) + L`
 - **Jump to Method/Variable (SYMBOL):** `⌘ (Command) + ⌥ (Option) + O`
-- **Jump to Action (ex: change theme):** `⌘ (Command) + ⇧ (Shift) + A`
 - **Navigate Back/Forward:** `⌘ (Command) + [ or ]`
 - **Navigate to Last Edit Location:** `⇧ (Shift) + ⌘ (Command) + ⌫ (Backspace)`
 - **Quick Switch Scheme:** `⌃ (Control) + (Backquote)`
