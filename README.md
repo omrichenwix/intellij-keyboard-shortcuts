@@ -11,6 +11,8 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Switch Between Tabs and Tool Window:** `⌃ (Control) + Tab`
 - **Optimize Imports:** `⌃ (Control) + ⌥ (Option) + O`
 - **Quick Fix:** `⌥ (Option) + ⏎ (Enter)`
+- **Find parameter info:** `⌘ (Command) + P`
+- **Quick Definition:** `⌥ (Option) + Space`
 
 ## Editing Shortcuts
 
