@@ -26,6 +26,9 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Start New Line:** `⇧ (Shift) + ↩ (Enter)`
 - **Select till the end of the word:** `⌥ (Option) + ⇧ (Shift) + → (Right Arrow)`
 - **Select till the end/start of the scope:** `⌥(Option) + ↑ / ⌥ (Option) + ↓`
+- **Choose Content to Paste from Clipboard:** `⇧ (Shift) + ⌘ (Command) + V`
+- **Select multiple occurrences:** `⌃ (Control) + G`
+- **Move Line Up/Down:** `⌥ (Option) + ⇧ (Shift) + ↑ / ↓`
 
 ## Code Generation
 
@@ -45,7 +48,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Quick Switch Scheme:** `⌃ (Control) + (Backquote)`
 - **Move focus to project tool window:** `⌘ (Command) + 1`
 - **Move focus back to editor:** `Esc`
-
+- **Move to End of Function:** `⌘ (Command) + ]`
 
 ## Refactoring Shortcuts
 
@@ -58,6 +61,8 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Extract Field:** `⌘ (Command) + ⌥ (Option) + F`
 - **Extract Constant:** `⌘ (Command) + ⌥ (Option) + C`
 - **Extract Parameter:** `⌘ (Command) + ⌥ (Option) + P`
+- **Edit Multiple lines at once:** `Double ⌥ (Option) and long press + ↑ / ↓`
+- **Edit Multiple lines at once with mouse:** `⌥ (Option) + ⇧ (Shift) + Click`
 
 
 ## Debugging Shortcuts
