@@ -18,6 +18,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 
 - **Duplicate Line or Selection:** `⌘ (Command) + D`
 - **Delete Line at Caret:** `⌘ (Command) + ⌫ (Backspace)`
+- **Delete to Word Start:** `⌥ (Option) + ⌫ (Backspace)`
 - **Smart Line Join:** `⇧ (Shift) + ⌘ (Command) + J`
 - **Smart Line Split:** `⌘ (Command) + ↩ (Enter)`
 - **Start New Line:** `⇧ (Shift) + ↩ (Enter)`
