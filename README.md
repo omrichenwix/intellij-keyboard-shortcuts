@@ -82,4 +82,3 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 
 ---
 
-Remember, you can always customize these shortcuts and create your own keymaps in IntelliJ IDEA preferences.
