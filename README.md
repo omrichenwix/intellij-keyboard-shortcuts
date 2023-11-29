@@ -14,7 +14,7 @@ This README provides a quick reference guide to the most essential IntelliJ IDEA
 - **Quick Fix:** `⌥ (Option) + ⏎ (Enter)`
 - **Find parameter info:** `⌘ (Command) + P`
 - **Quick Definition:** `⌥ (Option) + Space`
-- **Find Usage:** `⌥ (Option) + F7`
+- **Find Usage:** `⌘ (Command) + fn + ⌥ (Option) + F7`
 
 ## Editing Shortcuts
 
